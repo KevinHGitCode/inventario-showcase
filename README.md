@@ -88,3 +88,5 @@ Proyecto en equipo de **cuatro personas**. Me encargué de:
 > aplicación funcionando en una entrevista técnica.
 
 **Contacto:** [GitHub](https://github.com/KevinHGitCode) · kevinhafiddiazgarcia@gmail.com
+
+<sub>© 2026 Kevin Díaz. All rights reserved. Text and screenshots may not be reused without permission. University, SIIS2 and school logos belong to their respective owners.</sub>
