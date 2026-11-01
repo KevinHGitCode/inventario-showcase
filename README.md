@@ -5,6 +5,12 @@
 
 `Laravel 12` · `PHP 8.3` · `Livewire 3` · `Flux UI` · `Tailwind CSS 4` · `MySQL` · `Pest` · `Docker`
 
+> **Problem:** University assets live in spreadsheets: hard to know what is where, what was written off and who changed what.  
+> **Solution:** A web app that organizes inventory as group, inventory and asset, with Excel bulk upload and an activity log.  
+> **Stack:** Laravel 12, Livewire 3, Flux UI, Tailwind CSS 4, MySQL, Pest, Docker.  
+> **Live demo:** None public (internal university system; the source repository is private).  
+> **My role:** Member of a four-person team: data layer and SQL views, assets and inventory modules, Excel import, users, history and login UI, and tests.
+
 ![Grupos de inventario por bloque](screenshots/groups.png)
 
 *Capturas de la base de datos de ejemplo del repositorio: bienes genéricos, sin datos reales.*
@@ -78,7 +84,7 @@ Proyecto en equipo de **cuatro personas**. Me encargué de:
 
 ---
 
-> El código es público: [KevinHGitCode/Inventario-Uniguajira-v2](https://github.com/KevinHGitCode/Inventario-Uniguajira-v2).
-> La guía para correrlo está en el [README del repositorio](https://github.com/KevinHGitCode/Inventario-Uniguajira-v2#readme).
+> 🔒 **Código fuente privado.** Este repositorio es solo el *case study*. Puedo mostrar el código y la
+> aplicación funcionando en una entrevista técnica.
 
 **Contacto:** [GitHub](https://github.com/KevinHGitCode) · kevinhafiddiazgarcia@gmail.com
